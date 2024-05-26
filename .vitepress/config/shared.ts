@@ -31,7 +31,8 @@ export const slugify = (str: string): string =>
     .replace(/^(\d)/, '_$1')
 
 export const sharedConfig = defineConfig({
-  base: "/docs/",
+  base: "/docs/dist/",
+  outDir: 'dist',
   title: 'Pinia',
   appearance: 'dark',
 
