@@ -9,7 +9,7 @@ hero:
   text: The intuitive store for Vue.js
   tagline: Type Safe, Extensible, and Modular by design. Forget you are even using a store.
   image:
-    src: /logo.svg
+    src: /logo.png
     alt: Pinia
   actions:
     - theme: brand

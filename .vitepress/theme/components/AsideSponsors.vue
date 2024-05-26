@@ -4,7 +4,6 @@
     href="https://masteringpinia.com?utm=pinia-sidebar"
     target="_blank"
   >
-    <img width="22" height="22" src="/mp-pinia-logo.svg" />
     <span>
       <p class="extra-info">Complete guide to</p>
       <p class="heading">Mastering Pinia</p>
@@ -17,7 +16,6 @@
     href="https://certificates.dev/vuejs/?friend=VUEROUTER&utm_source=pinia_vuejs&utm_medium=link&utm_campaign=pinia_vuejs_links&utm_content=sidebar"
     target="_blank"
   >
-    <img width="22" height="22" src="/vue-cert-logo.svg" />
     <span>
       <p class="extra-info">The official</p>
       <p class="heading">Vue.js Certification</p>

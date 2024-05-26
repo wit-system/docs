@@ -33,7 +33,7 @@ export const slugify = (str: string): string =>
 export const sharedConfig = defineConfig({
   base: "/docs/dist/",
   outDir: 'dist',
-  title: 'Pinia',
+  title: 'Wit-ui',
   appearance: 'dark',
 
   markdown: {
@@ -53,7 +53,7 @@ export const sharedConfig = defineConfig({
   },
 
   head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }],
     ['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }],
 
     [
@@ -109,7 +109,7 @@ export const sharedConfig = defineConfig({
   ],
 
   themeConfig: {
-    logo: '/logo.svg',
+    logo: '/logo.png',
     outline: [2, 3],
 
     socialLinks: [
