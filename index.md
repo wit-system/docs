@@ -1,12 +1,12 @@
 ---
 layout: home
 
-title: Pinia
+title: Wit-ui
 titleTemplate: The intuitive store for Vue.js
 
 hero:
-  name: Pinia
-  text: "符合直觉的 \nVue.js 状态管理库"
+  name: Wit-ui
+  text: "大型系统多端 \n模块化微前端架构"
   tagline: "类型安全、可扩展性以及模块化设计。\n甚至让你忘记正在使用的是一个状态库。"
   image:
     src: /logo.svg
