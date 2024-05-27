@@ -33,7 +33,7 @@ export const slugify = (str: string): string =>
 export const sharedConfig = defineConfig({
   base: "/docs/dist/",
   outDir: 'dist',
-  title: 'Wit-ui',
+  title: 'Wit-system',
   appearance: 'dark',
 
   markdown: {
