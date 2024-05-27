@@ -1,16 +1,16 @@
 ---
 layout: home
 
-title: Wit-ui
+title: Wit-system
 titleTemplate: The intuitive store for Vue.js
 
 hero:
-  name: Wit-ui
+  name: Wit-system
   text: "大型系统多端 \n模块化微前端架构"
   tagline: "完全解耦、独立部署、不受前端技术框架限制。\n支持多个子系统集成于一个主系统的大型系统前端架构解决方案。"
   image:
     src: /logo.png
-    alt: Wit-ui
+    alt: Wit-system
   actions:
     - theme: brand
       text: 开始使用
