@@ -29,7 +29,7 @@ hero:
       link: https://www.vuemastery.com/pinia?coupon=PINIA-DOCS&via=eduardo
 
 features:
-  - title: 💡 所见即所得
+  - title: 💡 主流前端技术架构
     details: 与组件类似的 Store。其 API 的设计旨在让你编写出更易组织的 store。
   - title: 🔑 类型安全
     details: 类型可自动推断，即使在 JavaScript 中亦可为你提供自动补全功能！
